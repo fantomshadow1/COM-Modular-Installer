@@ -226,13 +226,13 @@
 	
 	Mnfst := 'manifest.txt'
 	Load := 'Loader.casf'
-	LoadSite := 'https://github.com/krypto5863/COM-Modular-Installer/raw/master/Assets/Loader.casf'
+	LoadSite := 'https://github.com/krypto5863/COM-Modular-Installer/raw/master/Online/Loader.casf'
 	Pat := 'Patcher.casf'
-	PatSite := 'https://github.com/krypto5863/COM-Modular-Installer/raw/master/Assets/Patchers.casf'
+	PatSite := 'https://github.com/krypto5863/COM-Modular-Installer/raw/master/Online/Patchers.casf'
 	Plug := 'Plugin.casf'
-	PlugSite := 'https://github.com/krypto5863/COM-Modular-Installer/raw/master/Assets/Plugins.casf'
+	PlugSite := 'https://github.com/krypto5863/COM-Modular-Installer/raw/master/Online/Plugins.casf'
 	Misc := 'Misc.casf'
-	MiscSite := 'https://github.com/krypto5863/COM-Modular-Installer/raw/master/Assets/Misc.casf'
+	MiscSite := 'https://github.com/krypto5863/COM-Modular-Installer/raw/master/Online/Misc.casf'
 	
 		DownloadPage.Clear();
 		
